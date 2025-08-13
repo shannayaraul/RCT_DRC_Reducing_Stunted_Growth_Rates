@@ -38,7 +38,7 @@ Experimental Evidence in the Democratic Republic of Congo"
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/shannayaraul/Synthetic_Controls_Liberia.git
+   git clone https://github.com/shannayaraul/RCT_DRC_Reducing_Stunted_Growth_Rates.git
    
 Thank you for your time!
 If you have any questions, feel free to contact me @ shannaya_raul@tamu.edu (Email) or https://www.linkedin.com/in/shannaya-raul/ (LinkedIn).
